@@ -1,6 +1,6 @@
 name: VMLimited
 main: Zeao\VMLimited\Main
-version: 1.0.0
+version: 1.0.1
 api: [3.0.0-ALPHA5, [3.0.0-ALPHA6], [3.0.0-ALPHA7]
 author: Zeao
 description: Limits creative mode. (Custom plugin.)
