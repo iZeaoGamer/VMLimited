@@ -1,4 +1,5 @@
 <?php
+
 namespace Zeao;
  
 use pocketmine\Player;
