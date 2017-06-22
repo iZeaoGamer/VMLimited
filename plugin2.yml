@@ -1,0 +1,20 @@
+name: VMLimited
+main: Zeao\VMLimited\Main
+version: 1.0.0
+api: [3.0.0-ALPHA5, [3.0.0-ALPHA6], [3.0.0-ALPHA7]
+author: Zeao
+description: Limits creative mode. (Custom plugin.)
+commands:
+    creative:
+        usage: /gmc
+        description: Changes gamemode to creative.
+    survival:
+        usage: /gms
+        description: Changes gamemode to survival
+permissions:
+    vmlimited.creative:
+        default: op
+        description: Lets you use /gmc
+    vmlimited.survival:
+        default: op
+        description: Lets you use /gms
