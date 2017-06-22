@@ -1,5 +1,5 @@
-name: VMLimited
-main: \Main
+name: VMCreativeLimit
+main: Zeao\VMLimited\Main
 version: 1.0.0
 api: [3.0.0-ALPHA5]
 author: Zeao
